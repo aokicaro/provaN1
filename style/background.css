@@ -1,0 +1,7 @@
+.background-edit{
+    background-color: #ffffff;
+}
+.banner{
+    background: url('/img/background-img.png') no-repeat;
+    background-size: cover;
+}

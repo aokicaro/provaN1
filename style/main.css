@@ -1,0 +1,20 @@
+html{
+    font-family: arial, helvetica, sans-serif;
+    color: #003185;
+}
+strong{
+    font-weight: bold;
+}
+@font-face {font-family: "Regan Alt"; src: url('/font/The\ Northern\ Block\ Ltd\ -\ Regan\ Alt.otf'); } 
+@font-face { font-family: "Regan Alt"; src: url('/font/The\ Northern\ Block\ Ltd\ -\ Regan\ Alt\ Black.otf'); } 
+.row{
+    margin-left: -15px;
+    margin-right: -15px;
+}
+.container{
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 15px;
+    padding-left: 15px;
+    width: 1170px;
+}

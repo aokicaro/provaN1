@@ -1,0 +1,30 @@
+.topic-container{
+   padding: 60px 15px;
+}
+.topic-container .row{
+    width: 100%;
+    margin: 0;
+}
+.topic-title p{
+    font-size: 36px;
+    margin-top: 0px;
+    margin-bottom: 60px;
+
+}
+.topic-list{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap
+}
+.topic-item{
+    display: flex;
+    width: 45%;
+    flex-basis: 45%;
+    margin-bottom: 50px;
+}
+.topic-image{
+    padding: 5px 15px 0 15px;
+}
+.topic-text{
+    color: black;
+}
